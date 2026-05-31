@@ -2,11 +2,11 @@
 null,
 {"id":1,"expanded":true,"name":"Вагон Влада","order":5,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
 {"id":2,"expanded":true,"name":"Вагон Леши","order":4,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
-{"id":3,"expanded":true,"name":"Вагон Софы","order":6,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
-{"id":4,"expanded":true,"name":"Вагон Лизы","order":7,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
-{"id":5,"expanded":true,"name":"Вагон Кристины","order":8,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+null,
+{"id":4,"expanded":true,"name":"Вагон Лизы","order":6,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":5,"expanded":true,"name":"Вагон Кристины","order":7,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
 {"id":6,"expanded":false,"name":"Комната Фроска","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":7,"expanded":false,"name":"Автовокзал","order":2,"parentId":0,"scrollX":700,"scrollY":398.4,"quick":false},
 {"id":8,"expanded":true,"name":"Ресторан","order":3,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
-{"id":9,"expanded":true,"name":"Вагон Кристины","order":9,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889}
+{"id":9,"expanded":true,"name":"Вагон Софы","order":8,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889}
 ]
