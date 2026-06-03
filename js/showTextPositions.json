@@ -1,0 +1,17 @@
+{
+  "maps": {
+    "map_13": {
+      "0": {
+        "x": 7,
+        "y": 364,
+        "width": 126,
+        "height": 90,
+        "fontSize": 20,
+        "fontColor": "#ffffff",
+        "lineHeight": 36,
+        "outlineColor": "#000000",
+        "outlineSize": 0
+      }
+    }
+  }
+}
